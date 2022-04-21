@@ -25,3 +25,9 @@ $ model.save_pretrained("rusbert_large")
 
 ```
   5. Use App!<br />
+<br />
+<h1 id="header" align="center"> Doc:</h1><br />
+<p>browser.js renders ui and run all other scripts.<br />
+correction folder used to correct users query.<br />
+sitemapper.py generates sitemap using rucrawler.py and writes urls to urls.txt<br />
+ranker.py makes ranks using ruranker.py (where you can add module functions) and bertscore.py</p>
