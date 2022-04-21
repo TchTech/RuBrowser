@@ -1,0 +1,1 @@
+@-: http://golang-book.ru/chapter-03-types.html

@@ -1,0 +1,23 @@
+{
+  "name": "electron-browser-demo",
+  "version": "1.0.0",
+  "description": "A electron browser application",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/yuankeyang/electron-browser-demo",
+  "keywords": [
+    "Electron",
+    "browser",
+    "demo"
+  ],
+  "author": "Yakir",
+  "license": "GPL",
+  "devDependencies": {
+    "electron": "~1.6.2"
+  },
+  "dependencies": {
+    "sitemap-generator": "^8.5.1"
+  }
+}
