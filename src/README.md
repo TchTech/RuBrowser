@@ -8,10 +8,10 @@
   For Python: Asyncio, Urlib, BeautifulSoup4, Re, Transformers, Torch, SkLearn, Autocorrect<br /><br />
 <h1 id="header" align="center"> Installation:</h1>
   <br />
-  1. Install Dependencies.
-  2. Make dir "rusbert_large" in "src".
-  3. cd rusbert_large.
-  4. Run:
+  1. Install Dependencies.<br />
+  2. Make dir "rusbert_large" in "src".<br />
+  3. cd rusbert_large.<br />
+  4. Run:<br />
 
 ```
 
@@ -24,4 +24,4 @@ $ model = AutoModel.from_pretrained("sberbank-ai/sbert_large_nlu_ru")
 $ model.save_pretrained("rusbert_large") 
 
 ```
-  5. Use App!
+  5. Use App!<br />
