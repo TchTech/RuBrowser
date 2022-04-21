@@ -1,2 +1,9 @@
 node_modules
 src/node_modules/
+src/useless_content/main.go
+src/useless_content/indexator.py
+src/useless_content/go.sum
+src/useless_content/go.mod
+src/useless_content/customscore.py
+src/rusbert_large/pytorch_model.bin
+src/rusbert_large/config.json
